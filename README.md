@@ -1,3 +1,3 @@
 # lab-04
-Name: Punya Kukreja
-CCID : punya1
+Name: Deng Ngut 
+CCID : ngut 
