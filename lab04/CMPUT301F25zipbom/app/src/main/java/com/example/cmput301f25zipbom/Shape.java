@@ -12,7 +12,7 @@ public abstract class Shape{
         this.y = y;
     }
 =======
-    public  String color  = "teal";
+    public  String color  = "red";
 >>>>>>> main
 
 }
